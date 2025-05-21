@@ -1,0 +1,7 @@
+id,a,b,c,question,options,correct,tags
+1,1.2,-1.0,0.2,"Choose the correct word: She _____ to the store yesterday.","['go', 'goes', 'went', 'gone']",3,"['grammar']"
+2,0.8,0.0,0.25,"Which sentence is grammatically correct?","['He don''t like apples.', 'He doesn''t likes apples.', 'He doesn''t like apples.', 'He not like apples.']",3,"['grammar']"
+3,1.0,1.0,0.2,"Fill in the blank: If I _____ you, I would study harder.","['was', 'were', 'am', 'be']",2,"['grammar']"
+4,1.5,0.5,0.15,"Choose the synonym for 'rapid':","['slow', 'quick', 'quiet', 'rare']",2,"['vocabulary']"
+5,1.1,-0.5,0.2,"Which word is a noun?","['run', 'beautiful', 'happiness', 'quickly']",3,"['vocabulary']"
+
