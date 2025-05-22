@@ -93,8 +93,6 @@ def run_mirt_cat_test():
                 answer = int(input("Your answer (1-4): "))
                 if answer in [1, 2, 3, 4]:
                     break
-                elif answer == 5:
-                    exit()
                 else:
                     print("Please enter a number from 1 to 4.")
             except:
