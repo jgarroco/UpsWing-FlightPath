@@ -1,11 +1,12 @@
-id,a1,a2,a3,b,c,question,options,correct,tags
-1,1.50,0.30,0.20,0.45,0.19,"Choose the correct form of the verb: She _____ to the store yesterday.","['goes', 'went', 'going', 'go']",2,"['grammar']"
-2,2.80,0.20,0.10,-1.44,0.13,"Which sentence is grammatically correct?","['He don''t like apples.', 'He doesn''t likes apples.', 'He doesn''t like apples.', 'He not like apples.']",3,"['grammar']"
-3,1.00,0.50,0.50,-0.83,0.11,"Select the word with correct pronunciation of 'ch' as in 'church'","['chemistry', 'champagne', 'chef', 'chair']",4,"['pronunciation']"
-4,0.50,2.00,0.50,-0.53,0.24,"Choose the synonym for 'rapid':","['slow', 'quick', 'quiet', 'rare']",2,"['vocabulary']"
-5,0.30,0.40,1.50,-0.18,0.24,"Identify the correct pronunciation of the word 'colonel'","['col-o-nel', 'ker-nel', 'col-nel', 'co-lo-nel']",2,"['pronunciation']"
-6,1.80,0.20,0.20,1.14,0.22,"Fill in the blank: If I _____ you, I would study harder.","['was', 'were', 'am', 'be']",2,"['grammar']"
-7,0.40,1.50,0.10,-1.20,0.15,"Choose the word with the correct stress pattern for 'photography'","['PHO-to-gra-phy', 'pho-TO-gra-phy', 'pho-to-GRA-phy', 'pho-to-gra-PHY']",3,"['pronunciation']"
-8,0.80,1.20,0.50,0.06,0.11,"Which word is a noun?","['run', 'beautiful', 'happiness', 'quickly']",3,"['vocabulary','grammar']"
-9,1.60,0.40,0.40,0.37,0.20,"Identify the sentence with correct subject-verb agreement","['The team are playing well.', 'The team is playing well.', 'The team were playing well.', 'The team be playing well.']",2,"['grammar']"
-10,0.50,1.00,1.50,-1.81,0.17,"Choose the word with the same vowel sound as in 'boot'","['foot', 'route', 'put', 'but']",2,"['pronunciation','vocabulary']"
+id,a1,a2,a3,a4,b,c,question,options,correct,tags,cefr
+1,1.5,0.3,0.8,0.4,-0.8,0.25,Which sentence uses the present perfect tense correctly?,"['She has go to the market.', 'She have gone to the market.', 'She has gone to the market.', 'She is going to the market.']",3,['grammar'],A2
+2,0.4,1.8,0.6,0.3,0.1,0.15,Choose the word that means 'abundant'.,"['scarce', 'plentiful', 'rare', 'few']",2,['vocabulary'],B1
+4,0.6,0.4,1.2,0.8,-0.2,0.2,Which sentence demonstrates correct parallel structure?,"['He likes to swim, to bike, and run.', 'He likes swimming, biking, and to run.', 'He likes to swim, to bike, and to run.', 'He likes swimming, biking, and running.']",3,['writing_mechanics'],B2
+5,1.2,0.3,0.5,1.1,1.1,0.18,Identify the correct use of the passive voice.,"['They built the house.', 'The house built them.', 'The house was built by them.', 'They are building the house.']",3,['grammar'],B2
+6,0.3,1.4,0.4,0.7,0.9,0.1,What is the synonym for 'ubiquitous' ?,"['rare', 'common', 'scarce', 'unique']",2,['vocabulary'],C1
+11,1.7,0.2,0.5,0.9,-0.5,0.2,Which verb tense describes an action that began in the past and continues to the present?,"['Simple Past', 'Present Perfect', 'Past Perfect', 'Present Continuous']",2,['grammar'],B1
+12,0.3,1.6,0.4,0.6,0.8,0.12,Select the antonym for 'benevolent'.,"['kind', 'generous', 'malevolent', 'compassionate']",3,['vocabulary'],C1
+14,0.4,0.3,1.6,0.8,0.9,0.1,Identify the sentence that uses commas correctly in a list.,"['I like apples oranges and bananas.', 'I like apples, oranges, and bananas.', 'I like apples, oranges and bananas.', 'I like apples oranges, and bananas.']",2,['writing_mechanics'],B1
+16,1.4,0.2,0.6,0.9,0.7,0.2,What is the correct conditional sentence?,"['If I would have known, I would tell you.', 'If I knew, I would tell you.', 'If I had known, I would have told you.', 'If I know, I tell you.']",3,['grammar'],C1
+17,0.3,1.5,0.7,0.5,-0.1,0.15,Choose the best definition for 'ephemeral'.,"['lasting a short time', 'lasting forever', 'difficult to understand', 'easy to remember']",1,['vocabulary'],C2
+20,0.8,0.6,0.9,1.1,0,0.2,Which word has a 'sh' sound?,"['measure', 'pleasure', 'sugar', 'all of the above']",4,['pronunciation'],B1
