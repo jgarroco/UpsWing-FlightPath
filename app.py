@@ -21,7 +21,7 @@ items_df = pd.read_csv("items.csv")
 if "id" in items_df.columns:
     items_df["id"] = items_df["id"].astype(int)
 
-# 3PL & related functions (current ones)
+# 3PL & related functions (current one)
 def three_pl(theta, a, b, c):
     e_term = np.exp(a * (theta - b))
     return c + (1 - c) * (e_term / (1 + e_term))
@@ -148,3 +148,4 @@ def finish():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
