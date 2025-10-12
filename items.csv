@@ -1,7 +1,14 @@
-id,a,b,c,question,options,correct,tags
-1,1.2,-1.0,0.2,"Choose the correct word: She _____ to the store yesterday.","['go', 'goes', 'went', 'gone']",3,"['grammar']"
-2,0.8,0.0,0.25,"Which sentence is grammatically correct?","['He don''t like apples.', 'He doesn''t likes apples.', 'He doesn''t like apples.', 'He not like apples.']",3,"['grammar']"
-3,1.0,1.0,0.2,"Fill in the blank: If I _____ you, I would study harder.","['was', 'were', 'am', 'be']",2,"['grammar']"
-4,1.5,0.5,0.15,"Choose the synonym for 'rapid':","['slow', 'quick', 'quiet', 'rare']",2,"['vocabulary']"
-5,1.1,-0.5,0.2,"Which word is a noun?","['run', 'beautiful', 'happiness', 'quickly']",3,"['vocabulary']"
-
+id,question,options,correct_answer,difficulty,discrimination,guessing,skill_area,cefr_level
+1,"The meeting is scheduled ___ Tuesday morning.","[""on"", ""at"", ""in"", ""by""]","on",-1.5,1.1,0.2,"grammar","A2"
+2,"Which word is a synonym for 'happy'?","[""sad"", ""joyful"", ""angry"", ""tired""]","joyful",-1.2,1.4,0.25,"vocabulary","A2"
+3,"He ___ to the store every day.","[""go"", ""goes"", ""gone"", ""going""]","goes",-0.8,1.8,0.2,"grammar","B1"
+4,"The book was ___ interesting that I read it in one night.","[""so"", ""too"", ""very"", ""such""]","so",-0.2,1.0,0.25,"grammar","B1"
+5,"What is the main idea of the paragraph? [Paragraph text here]","['food', 'basketball', 'soccer']","food",0.0,1.2,0.0,"reading","B2"
+6,"She has been working here ___ five years.","[""for"", ""since"", ""at"", ""in""]","for",0.4,1.6,0.2,"grammar","B2"
+7,"The opposite of 'complex' is ___. ","[""intricate"", ""difficult"", ""simple"", ""hard""]","simple",0.8,1.5,0.25,"vocabulary","C1"
+8,"If I ___ known you were coming, I would have baked a cake.","[""have"", ""had"", ""would have"", ""did""]","had",1.2,1.7,0.2,"grammar","C1"
+9,"Listen to the announcement. Where should you go? [Audio plays]","[""To the library"", ""To the main hall"", ""To the cafeteria"", ""To the gym""]","To the main hall",-0.5,1.3,0.25,"listening","B1"
+10,"Which sentence is grammatically correct?","[""She don't like coffee"", ""He run fastly"", ""They are very goods"", ""The cat is sleeping peacefully""]","The cat is sleeping peacefully",-1.0,1.9,0.2,"grammar","A2"
+11,"Read the email. What is the purpose of this email? [Email text here]","[""To complain"", ""To request information"", ""To apologize"", ""To make a reservation""]","To request information",0.2,1.1,0.0,"reading","B2"
+12,"The word 'ubiquitous' means ___. ","[""rare"", ""commonplace"", ""hidden"", ""complex""]","commonplace",1.5,1.6,0.25,"vocabulary","C1"
+13,"By the time the police arrived, the thief ___. ","[""disappears"", ""had disappeared"", ""has disappeared"", ""was disappearing""]","had disappeared",1.0,1.8,0.2,"grammar","B2"
