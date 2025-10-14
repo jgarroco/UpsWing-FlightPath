@@ -10,5 +10,4 @@ fastapi_problem.handler.add_exception_handler(app, eh)
 
 app.include_router(root_router)
 
-app.mount("/", StaticFiles(directory="frontend", html=True), name="frontend")
 
